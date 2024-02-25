@@ -26,4 +26,3 @@ ARGV.each do |arg|
         end
     end
     result << i_arg if !is_inserted
-end
